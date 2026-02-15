@@ -65,10 +65,6 @@ erDiagram
     }
 ```
 
-Rendered image (generated from the notebook; see *Technical Implementation*):
-
-![ERD](docs/erd.png)
-
 ---
 
 ## Insights Deep Dive
